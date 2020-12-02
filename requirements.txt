@@ -16,7 +16,7 @@ cffi==1.14.4
 chardet==3.0.4
 click==7.1.2
 cloudpickle==1.6.0
-colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+colorama ==0.4.4
 cryptography==3.2.1
 decorator==4.4.2
 defusedxml==0.6.0
@@ -30,21 +30,21 @@ helpdev==0.7.1
 idna==2.10
 imagesize==1.2.0
 intervaltree==3.1.0
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1604083276484/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==5.6.4
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1598353661586/work
+jedi==0.17.2
 Jinja2==2.11.2
 joblib==0.17.0
 jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-client==6.1.7
 jupyter-console==6.2.0
-jupyter-core @ file:///C:/ci/jupyter_core_1606149073702/work
+jupyter-core==4.7.0
 jupyterlab-pygments==0.1.2
 keyring==21.5.0
 lazy-object-proxy==1.4.3
@@ -60,7 +60,7 @@ nbconvert==6.0.7
 nbformat==5.0.8
 nest-asyncio==1.4.3
 notebook==6.1.5
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+numpy==1.19.2
 numpydoc==1.1.0
 packaging==20.7
 pandocfilters==1.4.3
@@ -72,14 +72,14 @@ pexpect==4.8.0
 pickleshare==0.7.5
 pluggy==0.13.1
 prometheus-client==0.9.0
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+prompt-toolkit==3.0.8
 psutil==5.7.3
 ptyprocess==0.6.0
 pycodestyle==2.6.0
 pycparser==2.20
 pydocstyle==5.1.1
 pyflakes==2.2.0
-Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+Pygments==2.7.2
 pylint==2.6.0
 pyls-black==0.4.6
 pyls-spyder==0.2.1
@@ -108,8 +108,7 @@ Rtree==0.9.4
 scikit-learn==0.23.2
 scipy==1.5.4
 Send2Trash==1.5.0
-six @ file:///C:/ci/six_1605187374963/work
-sklearn==0.0
+six==1.15.0
 snowballstemmer==2.0.0
 sortedcontainers==2.3.0
 Sphinx==3.3.1
@@ -127,13 +126,13 @@ threadpoolctl==2.1.0
 three-merge==0.1.1
 toml==0.10.2
 tornado==6.0.4
-traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+traitlets==5.0.5
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
 ujson==4.0.1
 urllib3==1.26.2
 watchdog==0.10.4
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
